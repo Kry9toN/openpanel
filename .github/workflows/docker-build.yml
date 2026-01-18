@@ -14,7 +14,7 @@ on:
       - ".github/workflows/**"
 
 env:
-  repo_owner: "openpanel-dev"
+  repo_owner: "Kry9toN"
 
 jobs:
   changes:
