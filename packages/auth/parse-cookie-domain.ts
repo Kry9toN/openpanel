@@ -10,6 +10,7 @@ const MULTI_PART_TLDS = [
   /nhs\.\w{2}$/,
   /or\.\w{2}$/,
   /go\.\w{2}$/,
+  /my\.\w{2}$/,
 ];
 
 export const parseCookieDomain = (url: string) => {
